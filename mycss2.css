@@ -1,0 +1,20 @@
+html{
+    border:2px purple solid;
+}
+div{
+    border: 1px solid black;
+    background-color: skyblue;
+    flex: 1;
+}
+.wrap{
+    display:flex;
+    justify-content: center;
+    /* 반응형 웹을 만들기 위해 사용하는 명령어 flex */
+    border: 5px red solid;
+}
+#first{
+    border:2px blue solid;
+}
+.first{
+    border:2px green solid;
+}

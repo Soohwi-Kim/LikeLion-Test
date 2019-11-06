@@ -1,0 +1,39 @@
+html{
+    height:100%;
+}
+body{
+background-color: darkturquoise;
+height:100%;
+}
+div{
+    font-size: 30px;
+    color:violet;
+    text-align: center;
+    border-color: rosybrown;
+    border:3px black solid;
+    display: inline-block;
+    /* margin: 5%; */
+    /* margin-left: 50px;
+    margin-top: 100px; */
+    margin:100px 30px 10px 0;
+    padding: 30px;
+    overflow:scroll;
+    /* float은  */
+    float: left; 
+}
+.make_class{
+    color: black;
+    border: 4px red solid;
+
+}
+#you{
+    color:white;
+    border:5px yellow solid;
+}
+.back_class{
+    background: white;
+}
+.clear_class{
+    clear: both;
+}
+/* 커멘드(컨트롤) + / 하면 CSS판 주석 */
